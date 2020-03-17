@@ -1,0 +1,45 @@
+body{
+    font-family:sans-serif;
+    position: relative;
+}
+h1{
+    color: black;
+}
+
+
+nav {
+    overflow: hidden; 
+     background-image: linear-gradient(to right, #0784ba ,#1e997c);
+
+     color: #f2f2f2;
+     text-decoration: none;
+     font-size: 17px;
+     text-align: center;
+  }
+  
+nav li {
+    float: left;
+    display: block;
+    padding: 14px 16px;
+  }
+  
+  nav li:hover {
+    background-color:#c4fff1;
+    color: black;
+  }
+  
+  nav li.active {
+    background-color: #08b5ff;
+    color: white;
+  }
+
+  li.home-text{
+    font-size: 150%;
+    font-weight:bold;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+  }
+  nav .link-item{
+      float:right;
+  }
