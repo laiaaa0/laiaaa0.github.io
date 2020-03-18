@@ -26,6 +26,7 @@ nav li {
   nav li:hover {
     background-color:#c4fff1;
     color: black;
+    cursor: pointer;
   }
   
   nav li.active {
@@ -82,4 +83,7 @@ div .language-level {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
+img.logo{
+  height: 30px;
 }
