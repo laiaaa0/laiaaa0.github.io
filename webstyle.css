@@ -1,11 +1,9 @@
 body{
     font-family:sans-serif;
     position: relative;
+    margin: 0px;
+    padding: 0px;
 }
-h1{
-    color: black;
-}
-
 
 nav {
     overflow: hidden; 
@@ -31,7 +29,6 @@ nav li {
   
   nav li.active {
     background-color: #08b5ff;
-    color: white;
   }
 
   li.home-text{
@@ -86,4 +83,32 @@ div .language-level {
 }
 img.logo{
   height: 30px;
+}
+
+div .home-section{
+  position: relative;
+  padding: 10px;
+  font-size: 20px;
+  display: inline-block;
+}
+div .home-section:nth-of-type(even) {
+  background: #deeffa;
+}
+
+.photo{
+  float:left;
+  position: relative;
+  border : 2px solid black;
+  background-color: lightblue;
+  border-radius: 50%;
+  width: 10%;
+  height: auto;
+}
+
+div .about-me-text{
+  float:left;
+  position: relative;
+  margin: 100px;
+  width: 33%;
+  text-align: justify;
 }
