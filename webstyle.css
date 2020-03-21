@@ -43,7 +43,7 @@ nav li {
   }
   div .language{
     float:left;
-    width: 15%;
+    width: 5%;
     margin-left: 3%;
     margin-right: 3%;
     position: relative;
@@ -120,4 +120,12 @@ table{
   border-collapse: separate;
   border-spacing: 15px;
   margin: 0 auto; /* or margin: 0 auto 0 auto */
+}
+table caption{
+  font-weight: bold;
+  font-size: larger;
+}
+td.education-place{
+  color: grey;
+  font-size: smaller;
 }
