@@ -90,6 +90,7 @@ div .home-section{
   padding: 10px;
   font-size: 20px;
   display: inline-block;
+  width: 100%;
 }
 div .home-section:nth-of-type(even) {
   background: #deeffa;
@@ -111,4 +112,12 @@ div .about-me-text{
   margin: 100px;
   width: 33%;
   text-align: justify;
+}
+td{
+  text-align: center;
+}
+table{
+  border-collapse: separate;
+  border-spacing: 15px;
+  margin: 0 auto; /* or margin: 0 auto 0 auto */
 }
