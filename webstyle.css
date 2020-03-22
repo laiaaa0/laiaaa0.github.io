@@ -43,7 +43,7 @@ nav li {
   }
   div .language{
     float:left;
-    width: 5%;
+    width: 70px;
     margin-left: 3%;
     margin-right: 3%;
     position: relative;
@@ -128,4 +128,14 @@ table caption{
 td.education-place{
   color: grey;
   font-size: smaller;
+}
+
+div .section-content{
+  
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+div #languages{
+  width: 25%;
 }
