@@ -21,11 +21,6 @@ nav li {
     padding: 14px 16px;
   }
   
-  nav li:hover {
-    background-color:#c4fff1;
-    color: black;
-    cursor: pointer;
-  }
   
   nav li.active {
     background-color: #08b5ff;
@@ -37,6 +32,9 @@ nav li {
     float: left;
     display: block;
     padding: 14px 16px;
+    cursor:default;
+    color: white;
+    
   }
   nav .link-item{
       float:right;
@@ -88,7 +86,7 @@ img.logo{
 
 div .home-section{
   position: relative;
-  padding: 10px;
+  padding: 20px;
   font-size: 20px;
   display: inline-block;
   width: 100%;
@@ -104,19 +102,25 @@ div .home-section:nth-of-type(even) {
   background-color: lightblue;
   border-radius: 50%;
   width: 10%;
-  height: auto;
+  height: 50%;
+  display: block;
+  margin-left: 5%;
 }
 
 div .about-me-text{
   float:left;
-  position: relative;
-  margin: 100px;
+  position: absolute;
   width: 33%;
   text-align: justify;
+
+  margin-left: 30%;
+  margin-top: 60px;
+  padding: 10px;
 }
 td{
   text-align: left;
 }
+
 table{
   border-collapse: separate;
   border-spacing: 20px 10px;
@@ -153,4 +157,8 @@ div .section-title{
   width: 20%;
   font-weight: bold;
   margin-left: 5%;
+}
+
+ul img.logo:hover{
+  transform: scale(1.5);
 }
