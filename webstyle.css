@@ -112,7 +112,6 @@ div .about-me-text{
   position: absolute;
   width: 33%;
   text-align: justify;
-
   margin-left: 30%;
   margin-top: 60px;
   padding: 10px;
@@ -136,14 +135,13 @@ td.education-place{
   font-size: smaller;
 }
 
-div .section-content{
-  
+div .section-content{  
   margin-left: auto;
   margin-right: auto;
   display: block;
 }
 div #languages{
-  width: 25%;
+  width: 40%;
 }
 
 div .section-title{
