@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Privilege"
-date:   2021-13-06 11:23:23 +0100
+date:   2021-06-13 11:23:23 +0100
 categories: random
 ---
 This morning I had a conversation where I said that men have the privilege of not being catcalled when they walk down the street. This started a debate on what it means to have a privilege, and if we should use that word or not.
