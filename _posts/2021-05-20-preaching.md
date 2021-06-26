@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Preaching and why I don't do it"
 date:   2021-05-30 15:10:23 +0100
 categories: random

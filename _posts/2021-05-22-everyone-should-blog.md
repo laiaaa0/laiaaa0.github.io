@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Why should everyone have a blog"
 date:   2021-05-22 11:56:23 +0100
 categories: random

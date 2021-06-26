@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Sunscreen"
 date:   2021-06-06 11:23:23 +0100
 categories: random

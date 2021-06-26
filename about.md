@@ -17,7 +17,7 @@ I am a computer scientist and roboticist and I like automating things! I am also
 [O2]: https://oni.bio
 
 [I1]: img/logo-iri.png
-[I2]: https://www.instagram.com/dexter_cockerjack/
+[I2]: https://www.iri.upc.edu/
 
 
 ## Education
