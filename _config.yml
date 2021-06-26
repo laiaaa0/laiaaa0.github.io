@@ -11,16 +11,6 @@ google_analytics:
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      read_time: true
-      show_date: true
-
 author:
   name             : "Laia Freixas"
   avatar           : "/img/waddles.png"
@@ -29,3 +19,16 @@ author:
   email            : "lfreixasmateu@gmail.com"
   github           : "laiaaa0"
   linkedin         : "laiafreixas"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:    
+      layout: single 
+      author_profile: true
+      read_time: true
+      show_date: true
+
+

@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: single
 title: About
-rank: 3
 ---
 Hi, I'm Laia.
 I am a computer scientist and roboticist and I like automating things! I am also interested in language learning and cognition, human-robot interaction and social robotics. When I'm not in front of a computer I'm probably dancing or getting lost somewhere.
