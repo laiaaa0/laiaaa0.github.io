@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: single
 title: About
-permalink: /about/
+author_profile: true
 ---
 Hi, I'm Laia.
 I am a computer scientist and roboticist and I like automating things! I am also interested in language learning and cognition, human-robot interaction and social robotics. When I'm not in front of a computer I'm probably dancing or getting lost somewhere.
@@ -17,7 +17,7 @@ I am a computer scientist and roboticist and I like automating things! I am also
 [O2]: https://oni.bio
 
 [I1]: img/logo-iri.png
-[I2]: https://www.instagram.com/dexter_cockerjack/
+[I2]: https://www.iri.upc.edu/
 
 
 ## Education

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Privilege"
 date:   2021-06-13 11:23:23 +0100
 categories: random
