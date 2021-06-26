@@ -1,6 +1,0 @@
-main:
-  - title: "Me"
-    url: /about.html
-  - title: "External Link"
-    url: https://google.com
-

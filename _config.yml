@@ -19,7 +19,11 @@ author:
   email            : "lfreixasmateu@gmail.com"
   github           : "laiaaa0"
   linkedin         : "laiafreixas"
-
+  links:
+      - label: "About me"
+        icon: ""
+        url: "/about.html"
+        
 defaults:
   # _posts
   - scope:
