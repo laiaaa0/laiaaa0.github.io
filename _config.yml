@@ -8,9 +8,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 show_downloads: false
 google_analytics:
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 minimal_mistakes_skin: "dark"
-
+plugins:
+  - jekyll-include-cache
 author:
   name             : "Laia Freixas"
   avatar           : "/img/waddles.png"
