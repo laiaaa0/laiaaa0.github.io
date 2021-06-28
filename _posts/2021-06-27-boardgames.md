@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Privilege"
+title:  "Boardgames"
 date:   2021-06-27 11:23:23 +0100
 categories: python
 ---
