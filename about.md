@@ -4,12 +4,12 @@ title: About
 author_profile: true
 ---
 Hi, I'm Laia.
-I am a computer scientist and roboticist and I like automating things! I am also interested in language learning and cognition, human-robot interaction and social robotics. When I'm not in front of a computer I'm probably dancing or getting lost somewhere.
+I am a computer scientist and roboticist and I like automating things! 
 
 ## Work
 
 
-|[![Oxford Nanoimaging][O1]][O2] | Oxford Nanoimaging |	Software developer| 	January 2019 - Present|
+|[![Oxford Nanoimaging][O1]][O2] | Oxford Nanoimaging |	Software developer| 	 2019 - 2024|
 |[![IRI][I1]][I2]| IRI (CSIC-UPC) 	|Research internship |	February 2017 - October 2018 |
 
 
